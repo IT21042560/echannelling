@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">E_Channeling</string>
+    <string name="order_prescription">ORDER PRESCRIPTION</string>
+    <string name="patient_name">Patient Name</string>
+    <string name="area">Patient Adress</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="prescription_image">Upload Prescription(Image Only)</string>
+    <string name="name_hint">Enter Your Name</string>
+    <string name="area_hint">Delivery Address</string>
+    <string name="phone_hint">07XXXXXXX</string>
+    <string name="file_hint">No File Attached</string>
+    <string name="areaa">Patient Address</string>
+    <string name="upload">UPLOAD</string>
+    <string name="order">ORDER</string>
+</resources>

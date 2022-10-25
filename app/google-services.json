@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "67836396942",
+    "project_id": "echanneling-dd045",
+    "storage_bucket": "echanneling-dd045.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67836396942:android:adff2855b7dbf62ee150df",
+        "android_client_info": {
+          "package_name": "com.example.e_channeling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67836396942-c86pmqhobfp6li1sravht7uj89p33oad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_channeling",
+            "certificate_hash": "4081cf128af066abed2e3af90a1cb803e73ffaa2"
+          }
+        },
+        {
+          "client_id": "67836396942-jv1er3rpmte2taarvninqf8go00tlfu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY3hrLUzxFWLrdME2jk-nntuU9TMc71VM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67836396942-jv1er3rpmte2taarvninqf8go00tlfu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
